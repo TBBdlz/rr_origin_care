@@ -14,7 +14,33 @@
 			flex-direction: column;
 			background-color: #FFFCF9;
 		}
+		.weekly {
+			display: flex;
+  			flex-direction: row;
+			position: absolute;
+			justify-content: center;
+			left: 20px;
+			top: 113px;
+		}
 
+		.day {
+			height: 100px;
+			width: 50px;
+			margin-bottom: 10px;
+			margin: 10px;
+			box-sizing: border-box;
+			background: #FFFFFF;
+			border: 2px solid #695B5B;
+			border-radius: 37px;
+			text-align: center;
+
+		}
+		.day p {
+			color: #7F6767;
+		}
+		.day:hover {
+			background-color:antiquewhite;
+		}
 		.container {
 			display: flex;
 			flex-direction: column;
@@ -71,7 +97,6 @@
 			border-radius: 15px;
 			color: #7F6767;
 		}
-
 		.navbar {
 			display: flex;
 			justify-content: space-around;
@@ -87,7 +112,7 @@
 		}
 
 		.navbar a {
-			color: gray;
+			color:#646464;
 			text-decoration: none;
 			align-items: center;
 			justify-content: center;
@@ -104,10 +129,30 @@
 			justify-content: center;
 		}
 		
+		#greeting {
+			margin-left: 1rem;
+			color:#7F6767 ;
+			position: absolute;
+			top: 20px;
+		}
+
 	</style>
 </head>
 <body>
 	<div class="container">
+		<div class="title">
+			<div class="wording">
+				<h2 id="greeting">DADDY SCALE</h2>
+			</div>
+			<div class="icon"></div>
+		</div>
+		<div class="weekly">
+			<div class="day"><p>Mon</p></div>
+			<div class="day"><p>Tru</p></div>
+			<div class="day"><p>Web</p></div>
+			<div class="day"><p>Tur</p></div>
+			<div class="day"><p>Fri</p></div>
+		</div>
 		<div class="text1">
 			<p>Nice weather for jogging!!</p>
 		</div>
@@ -125,10 +170,10 @@
 		</div>
 	</div>
 	<div class="navbar">
-		<a href="#"><img src="image/home.png" alt="Home">home</a>
-		<a href="#"><img src="image/bubble-chat.png" alt="Chat"> Ori-chan</a>
-		<a href="#"><img src="image/notification.png" alt="Noti"> Notification</a>
-		<a href="#"><img src="image/user.png" alt="Profile"> Profile</a>
+		<a href="#"><img src="image/home.png" alt="Home"></a>
+		<a href="#"><img src="image/bubble-chat.png" alt="Chat"></a>
+		<a href="#"><img src="image/notification.png" alt="Noti"></a>
+		<a href="#"><img src="image/user.png" alt="Profile"></a>
 	</div>
 </body>
 </html>
