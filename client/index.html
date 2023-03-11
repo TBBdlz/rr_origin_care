@@ -1,12 +1,136 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Home Page</title>
+	<title>My Page</title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			height: 100vh;
+			display: flex;
+			flex-direction: column;
+			background-color: #FFFCF9;
+		}
+
+		.container {
+			display: flex;
+			flex-direction: column;
+			flex: 1;
+		}
+
+		.section {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			justify-content: center;
+			flex: 1;
+			width: 100%;
+  			margin-bottom: 20px;
+		}
+		.heart-rate {
+			position: absolute;
+			width: 351px;
+			height: 106px;
+			left: 19px;
+			top: 284px;
+			background-color: skyblue;
+			border-radius: 15px;
+		}
+		.weather {
+			position: absolute;
+			width: 351px;
+			height: 106px;
+			left: 19px;
+			top: 409px;
+			background-color: indianred;
+			border-radius: 15px;
+		}
+		.chat {
+			position: absolute;
+			width: 351px;
+			height: 106px;
+			left: 19px;
+			top: 565px;
+			background-color: aquamarine;
+			border-radius: 15px;
+		}
+		.text1 {
+			position: absolute;
+			left: 25px;
+			top: 240px;
+			border-radius: 15px;
+			color: #7F6767;
+		}
+		.text2 {
+			position: absolute;
+			left: 25px;
+			top: 520px;
+			border-radius: 15px;
+			color: #7F6767;
+		}
+
+		.navbar {
+			display: flex;
+			justify-content: space-around;
+			align-items: center;
+			background-color:white;
+			box-shadow: 0px 4px 32px -8px rgba(0, 0, 0, 0.25);
+			color: grey;
+			height: 60px;
+			position: fixed;
+			bottom: 0;
+			width: 100%;
+			z-index: 1;
+		}
+
+		.navbar a {
+			color: gray;
+			text-decoration: none;
+			align-items: center;
+			justify-content: center;
+		}
+		.navbar a:hover {
+			color: black;
+		}
+		.navbar img {
+			height: 30px;
+			margin-right: 10px;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+		}
+		
+	</style>
 </head>
 <body>
-	
+	<div class="container">
+		<div class="text1">
+			<p>Nice weather for jogging!!</p>
+		</div>
+		<div class="section weather">
+			<h2>Weather</h2>
+		</div>
+		<div class="section heart-rate">
+			<h2>Heart Rate</h2>
+		</div>
+		<div class="text2">
+			<p>SMART HEALTH CHAT</p>
+		</div>
+		<div class="section chat">
+			<h2>Chat</h2>
+		</div>
+	</div>
+	<div class="navbar">
+		<a href="#"><img src="image/home.png" alt="Home">home</a>
+		<a href="#"><img src="image/bubble-chat.png" alt="Chat"> Ori-chan</a>
+		<a href="#"><img src="image/notification.png" alt="Noti"> Notification</a>
+		<a href="#"><img src="image/user.png" alt="Profile"> Profile</a>
+	</div>
 </body>
 </html>
+
+	
