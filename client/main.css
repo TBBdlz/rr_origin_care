@@ -1,7 +1,8 @@
 .chat-box {
 	border: 1px solid black;
-	height: 300px;
-	width: 400px;
+	height: calc(100vh - 120px);
+	width: 100%;
+	max-width: 400px;
 	margin: 50px auto;
 	display: flex;
 	flex-direction: column;
@@ -14,30 +15,54 @@
 
 .input-box {
 	display: flex;
+	align-items: center;
+	margin-top: 10px;
 }
 
 #message-input {
 	flex-grow: 1;
+	padding: 5px;
+	font-size: 16px;
+	width: 100%;
+	box-sizing: border-box;
 }
 
 #send-button {
 	margin-left: 10px;
+	padding: 5px 10px;
+	font-size: 16px;
 }
 
 .user-message {
 	background-color: #f2f2f2;
 	color: black;
-	margin: 5px 0;
+	margin: 5px 10px;
 	padding: 5px;
 	border-radius: 5px 5px 5px 0;
 	align-self: flex-start;
+	max-width: 70%;
+	word-wrap: break-word;
 }
 
 .bot-message {
 	background-color: #4caf50;
 	color: white;
-	margin: 5px 0;
+	margin: 5px 10px;
 	padding: 5px;
 	border-radius: 5px 5px 0 5px;
 	align-self: flex-end;
+	max-width: 70%;
+	word-wrap: break-word;
+}
+
+@media only screen and (max-width: 600px) {
+	.chat-box {
+		height: calc(100vh - 220px);
+		margin: 20px auto;
+	}
+
+	#message-input,
+	#send-button {
+		font-size: 14px;
+	}
 }
