@@ -1,0 +1,214 @@
+.regis-container {
+  min-height: 100vh;
+}
+.regis-regis {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 23px;
+  background-color: rgba(255, 252, 249, 1);
+}
+.regis-text {
+  top: 84px;
+  left: 139px;
+  color: rgba(105, 90, 90, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.regis-text02 {
+  top: 135px;
+  left: 74px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.regis-arrow1 {
+  top: 53px;
+  left: 54px;
+  width: 21px;
+  height: 0px;
+  position: absolute;
+}
+.regis-rectangle2 {
+  top: 250px;
+  left: 45px;
+  width: 302px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(105, 90, 90, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 24px;
+}
+.regis-text07 {
+  top: 218px;
+  left: 51px;
+  color: rgba(105, 90, 90, 1);
+  height: auto;
+  position: absolute;
+  font-size: 19px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.regis-rectangle3 {
+  top: 343px;
+  left: 45px;
+  width: 302px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(105, 90, 90, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 24px;
+}
+.regis-text09 {
+  top: 311px;
+  left: 53px;
+  color: rgba(105, 90, 90, 1);
+  height: auto;
+  position: absolute;
+  font-size: 19px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.regis-frame2 {
+  top: 667px;
+  left: 82px;
+  width: 228px;
+  height: 60px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 26px;
+  background-color: rgba(242, 248, 186, 1);
+}
+.regis-frame2:hover {
+  background-color: antiquewhite;
+}
+.regis-text11 {
+  top: 13px;
+  left: 87px;
+  color: rgba(105, 90, 90, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.regis-eye6 {
+  top: 350px;
+  left: 309px;
+  width: 25px;
+  height: 26px;
+  position: absolute;
+}
+.regis-rectangle4 {
+  top: 436px;
+  left: 45px;
+  width: 302px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(105, 90, 90, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 24px;
+}
+.regis-text13 {
+  top: 404px;
+  left: 53px;
+  color: rgba(105, 90, 90, 1);
+  height: auto;
+  position: absolute;
+  font-size: 19px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.regis-eye7 {
+  top: 443px;
+  left: 309px;
+  width: 25px;
+  height: 26px;
+  position: absolute;
+}
+.regis-text15 {
+  top: 763px;
+  left: 91px;
+  color: rgba(126, 102, 102, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

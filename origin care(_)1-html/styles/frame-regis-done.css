@@ -1,0 +1,139 @@
+.frame-regis-done-container {
+  min-height: 100vh;
+}
+.frame-regis-done-frame-regis-done {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 23px;
+  background-color: rgba(255, 252, 249, 1);
+}
+.frame-regis-done-text {
+  top: 436px;
+  left: 122px;
+  color: rgba(105, 90, 90, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame-regis-done-text2 {
+  top: 500px;
+  left: 116px;
+  color: rgba(105, 90, 90, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame-regis-done-frame2:hover {
+  background-color: antiquewhite;
+}
+.frame-regis-done-rectangle9 {
+  top: 673px;
+  left: 215px;
+  width: 48px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.frame-regis-done-rectangle10 {
+  top: 673px;
+  left: 140px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame-regis-done-rectangle11 {
+  top: 673px;
+  left: 165px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame-regis-done-rectangle12 {
+  top: 673px;
+  left: 190px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame-regis-done-frame2 {
+  top: 731px;
+  left: 57px;
+  width: 287px;
+  height: 58px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 37px;
+  background-color: rgba(242, 248, 186, 1);
+}
+.frame-regis-done-text7 {
+  top: 15px;
+  left: 65px;
+  color: rgba(111, 81, 81, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame-regis-done-image25 {
+  top: 106px;
+  left: 8px;
+  width: 374px;
+  height: 374px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame-regis-done-solid-status-heart {
+  top: 113px;
+  left: 161px;
+  width: 67px;
+  height: 67px;
+  position: absolute;
+}

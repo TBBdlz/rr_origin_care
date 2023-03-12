@@ -1,0 +1,553 @@
+.info2-container {
+  min-height: 100vh;
+}
+.info2-info2 {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 23px;
+  background-color: rgba(255, 252, 249, 1);
+}
+.info2-frame2 {
+  top: 731px;
+  left: 57px;
+  width: 287px;
+  height: 58px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 37px;
+  background-color: rgba(242, 248, 186, 1);
+}
+.info2-frame2:hover {
+  background-color: antiquewhite;
+}
+.info2-text {
+  top: 15px;
+  left: 102px;
+  color: rgba(111, 81, 81, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.info2-rectangle9 {
+  top: 672px;
+  left: 190px;
+  width: 48px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.info2-rectangle10 {
+  top: 672px;
+  left: 140px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.info2-rectangle11 {
+  top: 672px;
+  left: 165px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.info2-rectangle12 {
+  top: 672px;
+  left: 250px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.info2-vector {
+  top: 39px;
+  left: 23px;
+  width: 11px;
+  height: 18px;
+  position: absolute;
+}
+.info2-text02 {
+  top: 84px;
+  left: 120px;
+  color: rgba(105, 90, 90, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.info2-text04 {
+  top: 140px;
+  left: 34px;
+  color: rgba(105, 90, 90, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.info2-rectangle30 {
+  top: 184px;
+  left: 120px;
+  width: 75px;
+  height: 26px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 4px 0 0 4px;
+}
+.info2-rectangle31 {
+  top: 184px;
+  left: 195px;
+  width: 75px;
+  height: 26px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 0 4px 4px 0;
+}
+.info2-text06 {
+  top: 186px;
+  left: 140px;
+  color: rgba(105, 90, 90, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.info2-text08 {
+  top: 186px;
+  left: 214px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.info2-scale {
+  top: 310px;
+  left: 16px;
+  width: 357px;
+  height: 87px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.info2-rectangle32 {
+  top: 15px;
+  left: 0px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle34 {
+  top: 15px;
+  left: 50px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle35 {
+  top: 15px;
+  left: 75px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle36 {
+  top: 15px;
+  left: 100px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle37 {
+  top: 15px;
+  left: 125px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle33 {
+  top: 0px;
+  left: 25px;
+  width: 7px;
+  height: 87px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle38 {
+  top: 0px;
+  left: 150px;
+  width: 7px;
+  height: 87px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle39 {
+  top: 15px;
+  left: 175px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle40 {
+  top: 15px;
+  left: 200px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle41 {
+  top: 15px;
+  left: 225px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle42 {
+  top: 15px;
+  left: 250px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle44 {
+  top: 15px;
+  left: 300px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle45 {
+  top: 15px;
+  left: 325px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle46 {
+  top: 15px;
+  left: 350px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle43 {
+  top: 0px;
+  left: 275px;
+  width: 7px;
+  height: 87px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle47 {
+  top: 340px;
+  left: 186px;
+  width: 18px;
+  height: 27px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.info2-text10 {
+  top: 252px;
+  left: 156px;
+  color: rgba(105, 90, 90, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.info2-scale1 {
+  top: 505px;
+  left: 16px;
+  width: 357px;
+  height: 87px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.info2-rectangle321 {
+  top: 15px;
+  left: 0px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle341 {
+  top: 15px;
+  left: 50px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle351 {
+  top: 15px;
+  left: 75px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle361 {
+  top: 15px;
+  left: 100px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle371 {
+  top: 15px;
+  left: 125px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle331 {
+  top: 0px;
+  left: 25px;
+  width: 7px;
+  height: 87px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle381 {
+  top: 0px;
+  left: 150px;
+  width: 7px;
+  height: 87px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle391 {
+  top: 15px;
+  left: 175px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle401 {
+  top: 15px;
+  left: 200px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle411 {
+  top: 15px;
+  left: 225px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle421 {
+  top: 15px;
+  left: 250px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle441 {
+  top: 15px;
+  left: 300px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle451 {
+  top: 15px;
+  left: 325px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle461 {
+  top: 15px;
+  left: 350px;
+  width: 7px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle431 {
+  top: 0px;
+  left: 275px;
+  width: 7px;
+  height: 87px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.info2-rectangle48 {
+  top: 535px;
+  left: 186px;
+  width: 18px;
+  height: 27px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.info2-text12 {
+  top: 447px;
+  left: 156px;
+  color: rgba(105, 90, 90, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
